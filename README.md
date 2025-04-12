@@ -53,19 +53,5 @@ This dashboard empowers HR professionals to:
 
 ---
 
-## 📸 Preview
-
-![Dashboard Preview](image.png)
-
----
-
-## 🔗 Links
-
-- 💼 [View LinkedIn Post](#)
-- 🌐 [View Project on Portfolio](#)
-- 🧠 [Explore More Projects](#)
-
----
-
 **Let’s connect!**  
 If you're working in data or HR tech and want to collaborate — feel free to reach out on [LinkedIn](#).
