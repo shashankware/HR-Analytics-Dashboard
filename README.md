@@ -1,5 +1,6 @@
 
 # 📊 HR Analytics Dashboard - Power BI Project
+# Domain: Human Resources (HR) Analytics/People Analytics
 
 ## 🔍 Problem Statement
 
